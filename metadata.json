@@ -1,0 +1,6 @@
+{
+  "name": "PanicLink",
+  "description": "AI personal safety and linked CCTV stream rescue application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
